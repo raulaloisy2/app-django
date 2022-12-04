@@ -1,0 +1,20 @@
+body{
+    background-color:  #35971d;
+    margin: 0;
+       
+}
+
+.form-login{
+    margin: 0 auto;
+    margin-top:  50px;
+    width: 100%;
+    max-width: 500px;
+    background-color:white;
+    
+}
+
+.form-login a{
+    text-decoration: none;
+    color: rgb(123, 105, 105);
+
+}
